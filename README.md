@@ -20,7 +20,7 @@ Before we started building the application we sketched out all of the relationsh
 
 * As a user, I want to be able to create a Dream Team of current NBA players
 * As a user, I want to be able to view my newly created Dream Team
-* As a user, I should be able to update/trade a playersd
+* As a user, I should be able to update/trade players
 * As a user, I want to be able to delete the Dream Team I create
 
 
@@ -29,7 +29,7 @@ Before we started building the application we sketched out all of the relationsh
 1. Enter your name to create your Dream Team.
 2. Enter Dream Team draft.
 3. Pick your favorite players for each position.
-4. Confirm your draft picks
+4. Confirm your draft picks.
 5. Once your Dream Team is created, you can view your Dream Team.
 6. If a user if unhappy with a draft choice, he/she can trade players.
 7. If a user wants to delete his/her Dream Team, they can.
@@ -44,4 +44,4 @@ Before we started building the application we sketched out all of the relationsh
 	The player ratings are related to their NBA 2k19 ratings.
 
 3. Can I get Michael Jordan on my dream team?<br>
-	No, only the top 10 players for the 18/19 season are available to choose.
+	No, only the top 10 players for each position in the 18/19 season are available to choose.
